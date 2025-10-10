@@ -1,5 +1,4 @@
-![App Icon](image.jpg)
-**Loan Tracker** - BFSI Loan Lifecycle Management App Version 0.5.0
+![App Icon](image.jpg) **Loan Tracker** - BFSI Loan Lifecycle Management App Version 0.5.0
 
 # Loan Tracking App for Salesforce
 
@@ -16,6 +15,10 @@ Executive dashboard for loan portfolio management with status tracking, overdue 
 ## Reports
 ![Active Loans By Status](image.jpg)
 Displays active loan applications grouped by status with counts and totals for dashboard reporting.
+
+## Loan Application Record Example
+![Loan Application (LA - 0001)](image.jpg)
+Shows a sample loan application record in the Salesforce Loan Tracker app, with all key fields and metadata.
 
 ## Setup Instructions
 - Clone or deploy from repository to your Salesforce org
